@@ -1,0 +1,5 @@
+export const RUDOLPH_CONTRACT_ADDRESS = '0x5d19501aaab013bfffda0655348e37906dffa511';
+export const NOKYONG_CONTRACT_ADDRESS = '0xbb8c99998866c8ce62c81cb365390f1f18b66a59';
+export const ACCESS_KEY_ID = 'KASK78X9IOMT88BV7P2E39Q4';
+export const SECRET_ACCESS_KEY = '1WdZLEP__5aT3MlxO06ByQGkW4fdfj2Hx7StzjbQ';
+export const CHAIN_ID = '8217'; //testnet 1001 , mainnet 8217

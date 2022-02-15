@@ -1,0 +1,35 @@
+
+* {
+  border: 0;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color : black;
+  text-align: center;
+}
+
+html {
+  height: 100%;
+  font-size: 14px;
+}
+
+.App {
+  background-color: black;
+}
+.card {
+  width : 100%;
+  margin : 10px;
+  border-radius: 5px;
+  overflow: hidden;
+  cursor: pointer;
+  transition : 0.4s;
+  border-color: black;
+}
+.card-img {
+  width: 100%;
+}
+body {
+  height: 100%;
+  background-color: black;
+  color: white;
+}
